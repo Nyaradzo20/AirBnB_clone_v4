@@ -9,6 +9,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:xq
 
 # Search String History (newest to oldest):
 
@@ -21,15 +22,98 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-'1  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+'0  1  1  ~/alx-frontend-for-fun/.git/COMMIT_EDITMSG
+'1  1  0  ~/alx-frontend-javascript/.git/MERGE_MSG
+'2  1  0  ~/alx-frontend-for-fun/.git/MERGE_MSG
+'3  1  0  ~/alx-interview/.git/MERGE_MSG
+'4  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+'5  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
 
 # Jumplist (newest first):
+-'  1  1  ~/alx-frontend-for-fun/.git/COMMIT_EDITMSG
+-'  1  0  ~/alx-frontend-javascript/.git/MERGE_MSG
+-'  1  0  ~/alx-frontend-for-fun/.git/MERGE_MSG
+-'  1  0  ~/alx-interview/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-interview/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-frontend-for-fun/.git/MERGE_MSG
+-'  1  0  ~/alx-interview/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-interview/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-frontend-javascript/.git/MERGE_MSG
+-'  1  0  ~/alx-frontend-for-fun/.git/MERGE_MSG
+-'  1  0  ~/alx-interview/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-interview/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-frontend-for-fun/.git/MERGE_MSG
+-'  1  0  ~/alx-interview/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-interview/.git/MERGE_MSG
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
+-'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
 -'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
 -'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
 -'  1  0  ~/alx-low_level_programming/.git/MERGE_MSG
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-frontend-for-fun/.git/COMMIT_EDITMSG
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/alx-frontend-javascript/.git/MERGE_MSG
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/alx-frontend-for-fun/.git/MERGE_MSG
+	"	1	0
+	^	1	0
+
+> ~/alx-interview/.git/MERGE_MSG
+	"	1	0
 
 > ~/alx-system_engineering-devops/.git/MERGE_MSG
 	"	1	0
